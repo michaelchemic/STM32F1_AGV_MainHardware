@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "usart.h": "c",
+            "motor_ctl.h": "c"
+        }
+    },
+    "extensions": {}
+}
